@@ -21,14 +21,15 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 	Cat owners always like to know more about their feline. Most cat owners adopted their pets in annual adoption campaigns promoted by the Pet Shop. However, rarely do adopted kittens come with breed identification, origin, size, among other curiosities about the animal. Therefore, thinking of providing more information to their owners, an image classification model was created to identify and classify data from images sent by clients. For the construction of the model, the 10 most popular feline breeds in the city where the Pet Shop operates were considered.
 	To reduce the model training time and improve its accuracy, we adopted Transfer Learning using pre-trained weights from the VGG16 model.
 ---
-
+---
 ###1. Introdução
-
+---
 ###2. Modelagem
-
+---
 ###3. Resultados
-
+---
 ###4. Conclusões
+---
 
 ---
 Matrícula: 211.100.017
