@@ -38,10 +38,11 @@ Na construção do modelo de classificação de imagens proposto, foi aplicado T
 ###3. Resultados
 ---
 Com base nos resultados apresentados, é possível observar que o modelo utilizado apresentou uma acurácia média baixa de aproximadamente 25%. As acurácias de validação também não demonstraram melhorias significativas ao longo das épocas, variando em torno de 20% a 28%. Isso indica que o modelo pode não estar conseguindo capturar bem as características das imagens de treinamento, levando a uma baixa capacidade de generalização e, consequentemente, a baixas acurácias nas imagens de validação.
+
 ###4. Conclusões
 ---
 Os resultados mostram as perdas (loss) e as acurácias (acc) do conjunto de treinamento e do conjunto de validação a cada época. Além disso, também mostra a taxa de aprendizagem (lr) utilizada em cada época. Os resultados indicam que, apesar de a acurácia do conjunto de validação ter melhorado gradualmente ao longo do tempo, permaneceu em um nível relativamente baixo (inferior a 30%). Além disso, a perda do conjunto de validação também permaneceu relativamente alta. Esses resultados sugerem que o modelo pode estar sofrendo de overfitting, onde ele se torna muito ajustado aos dados de treinamento e não generaliza bem para dados novos.
----
+
 Matrícula: 211.100.017
 
 Pontifícia Universidade Católica do Rio de Janeiro
