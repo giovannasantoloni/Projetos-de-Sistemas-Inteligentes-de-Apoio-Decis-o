@@ -22,7 +22,9 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 ---
 ###1. Introdução
 ---
+
 O código apresentado é uma modelagem em Python criada para treinar uma rede neural convolucional para classificação de imagens, utilizando a arquitetura ResNet50V2 pré-treinada para classificar imagens do dataset em dez categorias.
+
 ---
 ###2. Modelagem
 ---
